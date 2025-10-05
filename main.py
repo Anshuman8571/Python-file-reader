@@ -1,5 +1,6 @@
 import os
 def run_file_operation():
+    print("A new change is given")
     filename="text.txt"
     test_content="Hello from the CI pipeline, this is second test."
     
