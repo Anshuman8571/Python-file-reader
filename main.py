@@ -1,7 +1,7 @@
 import os
 def run_file_operation():
     filename="text.txt"
-    test_content="Hello from the CI pipeline"
+    test_content="Hello from the CI pipeline, this is second test."
     
     try: 
         print("Starting the application")
